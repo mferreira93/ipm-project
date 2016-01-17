@@ -1,0 +1,24 @@
+#page-head{
+    margin-top: 0;
+    padding-top: 0;
+    background-image: url(../../dummies/onerepublic_00.jpg);
+}
+
+#title-text{
+    color: #EB4740;
+    float: none;
+    margin-top: 0;
+    max-width: none;
+    opacity: 1;
+}
+
+#box-left{
+    float: left;
+    background-color: rgba(66,51,56,0.9);
+    opacity: 0.8;
+}
+
+#box-right{
+    background-color: rgba(66,51,56,0.9);
+    opacity: 0.8;
+}

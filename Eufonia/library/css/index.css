@@ -1,0 +1,59 @@
+.carousel-caption h2{
+    color: #ffffff;
+    width: 100%;
+}
+
+#log-btn{
+    width: 40%;
+    margin-left: 5px;
+}
+
+#reset-btn{
+    width: 40%;
+}
+
+#register-form{
+    display: none;
+    z-index: 1;
+}
+
+.modal-header {
+    padding-top: 0px;
+}
+
+#register-header{
+    text-align: center;
+}
+
+#dtn{
+    margin-top: -7px;
+}
+
+#division-content{
+    border-width: 1px;
+    border-color: #4F4F4F;
+}
+
+.citation{
+    color: #FFFFFF;
+}
+
+.links{
+    margin-top: 0;
+    color: #FFFFFF;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+@media (min-width: 768px) {
+    .modal-dialog {
+        width: 550px;
+        margin: 30px auto;
+    }
+}
+
+@media (max-width: 600px) {
+    .slider-text{
+    font-size: 20px;
+    }
+}

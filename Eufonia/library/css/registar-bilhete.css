@@ -1,0 +1,10 @@
+#pass{
+    margin-left: 10px;
+}
+
+@media (max-width: 376px) {
+    #pass{
+        margin-left: 0;
+        margin-top: 25px;
+    }
+}

@@ -1,0 +1,57 @@
+.map {
+    height: 350px;
+    width: 100%;
+}
+
+#i-map{
+    margin-top: 0;
+}
+
+#cont-grid{
+    width: 100%;
+}
+
+#division-concerts{
+    border-width: 1px;
+    border-color: #4F4F4F;
+}
+
+#side-title{
+    border-radius: 7px 7px 7px 7px;
+    height: 50px;
+    line-height: 50px;
+}
+
+#first-side{
+    width: 400px;
+}
+
+#second-side{
+    width: 400px;
+}
+
+#third-side{
+    width: 400px;
+}
+
+#fourth-side{
+    width: 400px;
+}
+
+#fifth-side{
+     width: 400px;
+}
+
+#sixth-side{
+     width: 400px;
+}
+
+#seventh-side{
+    width: 400px;
+}
+
+@media(min-width: 768px){
+    .map {
+        height: 500px;
+    }
+}
